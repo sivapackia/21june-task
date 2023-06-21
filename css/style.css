@@ -1,0 +1,16 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	text-decoration:none;
+}
+
+.back-img{
+	 background-image:linear-gradient(#0f0f10cf,#172a9fab),url("../image/kannan.jpg")!important;
+	 background-repeat:no-repeat!important;
+	 background-size:cover;
+}
+
+.card{
+	height:680px!important;
+}

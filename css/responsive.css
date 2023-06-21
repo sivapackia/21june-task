@@ -1,0 +1,156 @@
+@media(min-width:577px) and (max-width:992px){
+
+.nav-bar{
+  display:none!important;
+}
+
+.header-icon a{
+	width:35%!important;
+	background-color:white!important;
+    overflow:hidden!important;
+}
+
+.search-icon .menu{
+	display:block!important;
+}
+
+
+.image-head{
+	margin-bottom:20px;
+}
+
+.free-bar{
+	margin-top:20px;
+}
+
+.search-icon .head-click{
+	display:none!important;
+}
+
+.letter-bar-1{
+	position:relative;
+}
+
+.today{
+	text-align: center!important;	
+}
+
+.today .none{
+	display:none!important;
+}
+
+.today .image-11{
+	top: 81px !important;
+    left: -9px !important;
+    z-index: -1!important;
+}
+
+#carouselExampleControls .relative-bar{
+	position:relative;
+}
+
+.left{
+    position: absolute;
+    right:13%;
+    bottom:0px; 
+    background-color:#0b64e7f2!important;
+	color:blue!important;
+    border: 0;
+    height:50px;
+	width:50px;	
+}
+
+.right{
+    position: absolute;
+    right:0;
+    bottom:0px; 
+    background-color:#0b64e7f2!important;
+	color:blue!important;
+    border: 0;
+    height:50px;
+	width:50px;		
+}
+}
+
+@media(max-width:576px){
+
+.nav-bar{
+  display:none;
+}
+
+.header-icon a{
+	width:90%!important;
+	background-color:white!important;
+    overflow:hidden!important;
+}
+
+.search-icon .menu{
+	display:block!important;
+}
+
+.search-icon .head-click{
+	display:none!important;
+}
+
+.image-head .position-absolute{
+	display:none;
+}
+
+.student-bar .ps-5{
+	padding:0!important;
+}
+
+
+.today{
+	text-align: center!important;	
+}
+
+.image-three{
+	display:none!important;
+}
+
+.workshop-bar{
+	width:max-content!important;
+}
+
+
+.image-head{
+	margin-bottom:20px;
+}
+
+.free-bar{
+	margin-top:20px;
+}
+
+#carouselExampleControls .relative-bar{
+	position:relative;
+}
+
+.left{
+    position: absolute;
+    right:15%;
+    bottom:0px; 
+    background-color:#0b64e7f2!important;
+	color:blue!important;
+    border: 0;
+    height:40px;
+	width:40px;	
+}
+
+.right{
+    position: absolute;
+    right:0;
+    bottom:0px; 
+    background-color:#0b64e7f2!important;
+	color:blue!important;
+    border: 0;
+    height:40px;
+	width:40px;		
+}
+
+.anchorr .anchor{
+	padding:10px!important;
+	font-weight:0!important;
+}
+
+}
